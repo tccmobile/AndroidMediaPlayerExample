@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/drwillsmith/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/drwillsmith/Downloads/AndroidMediaPlayerExample1/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-7a1bc92b26d0169b7a7e382210686b1c9c4fe403.jar" />
+    </item>
+
+</items>
